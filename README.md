@@ -15,7 +15,7 @@
  - Change each "???" to the value that will make the test **pass**
  - Once they pass they will be **blue** and not red on the page!
 
-Part 2
+# Part 2 - Function Master
  - What is the standard library?
  - Go over Object.keys()
  - Go over typeof
