@@ -16,12 +16,18 @@
  - Once they pass they will be **blue** and not red on the page!
 
 # Part 2 - Function Master
- - What is the standard library?
- - Go over Object.keys()
- - Go over typeof
- - Go over Array.isArray
+
+## Step 1 - typeof
+ - what can we typeof ? 
+ - what can't we typeof ?
+ - how do we check those things?
+
+## Step 2 - The Standard Library
+ - Object.keys()
  - String.toUpperCase
  - String.split
  - String.join
  - Array.join
+
+## Step 3 - Be The Function Master
  - If you don't understand what a function is supposed to do, look at the test. If you still don't understand, ask me.
