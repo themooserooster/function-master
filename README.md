@@ -18,16 +18,17 @@
 # Part 2 - Function Master
 
 ## Step 1 - typeof
- - what can we typeof ? 
- - what can't we typeof ?
+ - what can we `typeof` ? 
+ - what can't we `typeof` ?
  - how do we check those things?
+ - Array.isArray()
+ - null === null
 
 ## Step 2 - The Standard Library
  - Object.keys()
- - String.toUpperCase
- - String.split
- - String.join
- - Array.join
+ - String.toUpperCase()
+ - String.split()
+ - Array.join()
 
 ## Step 3 - Be The Function Master
  - If you don't understand what a function is supposed to do, look at the test. If you still don't understand, ask me.
