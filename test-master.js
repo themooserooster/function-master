@@ -6,7 +6,7 @@
       
       //                     ┌ Change this to what it should be
       assert.equal( value, '???');
-      //                     ┌ Change this to what it should be
+      //                           ┌ Change this to what it should be
       assert.equal( some_number, '???');
     });
     
