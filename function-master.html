@@ -28,8 +28,8 @@
             
             /* global valuesToString */
             QUnit.test("valuesToString() : Should take an object and return all its string values in a string each separated with a space", function(assert){
-                var data = {a: "one", boolean: false, b: "two", ponies: "crayons", something: {}, dingle: "dangle"};
-                assert.equal(valuesToString(data), "one two crayons dangle");
+                var data = {a: "one", boolean: false, b: "two", ponies: "crayons", dingle: "dangle"};
+                assert.equal(valuesToString(data), "one false two crayons dangle");
             });
             
             /* global arrayOrObject  */
