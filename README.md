@@ -11,20 +11,20 @@
  - Inspect the tests on the page and try to understand what's going on in general.
  - All the **tests** are currently **failing**.
  - If we look in test-master.html we can see that they are **red** and their status is **failed**
- - Each one of the tests has at least one occurrance of "???". This is what we need to change.
+ - Each one of the tests has at least one occurrence of "???". This is what we need to change.
  - Change each "???" to the value that will make the test **pass**
  - Once they pass they will be **blue** and not red on the page!
 
 # Part 2 - Function Master
 
-## Step 1 - typeof
- - what can we `typeof` ? 
+## Review Questions from Module One Handbook?
+ - what can we `typeof` ?
  - what can't we `typeof` ?
  - how do we check those things?
  - Array.isArray()
  - null === null
 
-## Step 2 - The Standard Library
+## Standard Library Methods You Should Know By Now:
  - Object.keys()
  - String.toUpperCase()
  - String.split()
