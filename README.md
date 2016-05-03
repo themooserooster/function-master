@@ -31,4 +31,8 @@
  - Array.join()
 
 ## Step 3 - Be The Function Master
+For this part of the lesson, you will be working in `function-master.js`. Part 2 is the opposite of
+Part 1 in that this time around we have a different and new set of tests written for us, and we'll
+be writing functions that pass them. 
+
  - If you don't understand what a function is supposed to do, look at the test. If you still don't understand, ask me.
